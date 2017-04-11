@@ -13,7 +13,7 @@ $(document).on('click', '#reset', function() {
 })
 
 
-//rock n roll questions object
+//questions object
 var questions = [{
 //question 1
     question: "Where was Beyoncé born?",
