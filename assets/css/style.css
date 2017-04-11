@@ -1,0 +1,14 @@
+
+body {
+    background-image: url('../images/beyonce.gif');
+
+}
+
+.well {
+	background-color: white;
+	border-radius: 10px;
+	width: 80%;
+	margin: auto;
+	margin-top: 5%;
+}
+
